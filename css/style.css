@@ -72,6 +72,7 @@ body {
 .card {
   display: flex;
   flex-direction: column;
+  margin-bottom: 20px;
   padding: 30px;
   background-color: #FFFFFF;
   border-radius: 6px;
@@ -119,7 +120,7 @@ body {
 }
 
 .card__value {
-  font-size: 92px;
+  font-size: 85px;
   line-height: 1;
   color: #000000;
 }
