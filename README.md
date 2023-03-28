@@ -4,7 +4,7 @@ createx
  
  Приложение сайт погода на JS.
 
-Ссылка на макет в фигме: https://www.figma.com/file/L4ae5KBlGUt3P5gWci2uGp/Weather-App?node-id=2-2&t=e2FzM8wXgomokKHT-0
+Ссылка на макет в фигме: https://www.figma.com/file/TNm88YgUbEUQSYDu6kRTZ6/Weather-App-(Copy)?node-id=0-1&t=zlEIRbN1DHGks6ac-0
 
 Верстка на Чистом HTML+SCSS с функционалом на JS 
 
